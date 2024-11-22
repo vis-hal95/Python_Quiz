@@ -26,15 +26,16 @@ python project Quiz of python Questions  ==>
     - **Correct Answer**: When the user selects the correct answer, an information message box appears (`messagebox.showinfo`) to congratulate them.
        ![python](https://github.com/vis-hal95/Python_Quiz/blob/3d7b61ab9f345042ed80bbfa712b58e1e38899d5/8e79a058-83e0-4121-a15c-85bc88b564ab.jpeg)
     - **Incorrect Answer**: If the selected answer is wrong, an error message box appears (`messagebox.showerror`) to let the user know they chose the wrong answer.
-      ![pyhton]()
+      ![pyhton](https://github.com/vis-hal95/Python_Quiz/blob/66a6848665ea3c6826aa92acfcf820806c092b5e/e557b177-c443-467a-8f60-e920e6aa1932.jpeg)
 
     - **Final Score**: At the end of the quiz, a final score is displayed in a message box.
+      
 6. **Submit Button**:
     - The **Submit Answer** button has a green background (`#28a745`) with white text. It triggers the `check_answer`function, which verifies if the answer is correct and moves to the next question.
-7. **Styling**:
+8. **Styling**:
     - The `style_buttons()` function ensures that the answer buttons have distinct colors (blue, yellow, green, red), each representing one of the answer choices.
     - The `submit_button` has a flat style with rounded corners and padding to give it a modern appearance.
-8. **Progression of the Quiz**:
+9. **Progression of the Quiz**:
     - After each answer submission, the `q_index` is incremented to move to the next question.
     - When all questions have been answered, the user's score is shown in a final popup.
 
