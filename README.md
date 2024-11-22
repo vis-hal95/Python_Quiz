@@ -11,7 +11,7 @@ python project Quiz of python Questions  ==>
         - `options`: A list of four possible answers.
         - `answer`: The correct answer to the question.
         
-          https://github.com/vis-hal95/Python_Quiz/blob/main/185bd697-126f-40eb-8a02-afe319705c46.jpeg?raw=true![Uploading image.png…]()
+        ![pyhton] https://github.com/vis-hal95/Python_Quiz/blob/87086ac11657f5f7ad566c557e4d3691af108368/185bd697-126f-40eb-8a02-afe319705c46.jpeg
 
 2. **Main Window Setup**:
     - The window is set with a soft light blue background (`#f0f8ff`), making it visually appealing.
