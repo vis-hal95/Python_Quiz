@@ -24,8 +24,10 @@ python project Quiz of python Questions  ==>
     - The button colors are vibrant (blue, yellow, green, red) to make the interface more colorful and interactive.
 5. **Feedback Mechanism**:
     - **Correct Answer**: When the user selects the correct answer, an information message box appears (`messagebox.showinfo`) to congratulate them.
+       ![python](https://github.com/vis-hal95/Python_Quiz/blob/3d7b61ab9f345042ed80bbfa712b58e1e38899d5/8e79a058-83e0-4121-a15c-85bc88b564ab.jpeg)
     - **Incorrect Answer**: If the selected answer is wrong, an error message box appears (`messagebox.showerror`) to let the user know they chose the wrong answer.
-   ![python](https://github.com/vis-hal95/Python_Quiz/blob/3d7b61ab9f345042ed80bbfa712b58e1e38899d5/8e79a058-83e0-4121-a15c-85bc88b564ab.jpeg)
+      ![pyhton]()
+
     - **Final Score**: At the end of the quiz, a final score is displayed in a message box.
 6. **Submit Button**:
     - The **Submit Answer** button has a green background (`#28a745`) with white text. It triggers the `check_answer`function, which verifies if the answer is correct and moves to the next question.
