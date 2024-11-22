@@ -29,7 +29,7 @@ python project Quiz of python Questions  ==>
       ![pyhton](https://github.com/vis-hal95/Python_Quiz/blob/66a6848665ea3c6826aa92acfcf820806c092b5e/e557b177-c443-467a-8f60-e920e6aa1932.jpeg)
 
     - **Final Score**: At the end of the quiz, a final score is displayed in a message box.
-      
+      ![pyhton](https://github.com/vis-hal95/Python_Quiz/blob/848083b947de970f62523237d1d57311b3058451/722ad67c-5301-4cd3-8628-95c8ffd396f0.jpeg)
 6. **Submit Button**:
     - The **Submit Answer** button has a green background (`#28a745`) with white text. It triggers the `check_answer`function, which verifies if the answer is correct and moves to the next question.
 8. **Styling**:
