@@ -1,5 +1,4 @@
 # Python_Quiz
-python project Quiz of python Questions  ==>
 ### Features:
 - **Python Programming Questions**: All the questions are based on Python programming concepts.
 - **Colorful and Beautiful Interface**: Buttons have vibrant colors, and the layout is clean and engaging.
