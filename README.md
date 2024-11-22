@@ -10,7 +10,9 @@ python project Quiz of python Questions  ==>
         - `question`: The text of the question.
         - `options`: A list of four possible answers.
         - `answer`: The correct answer to the question.
-          https://github.com/vis-hal95/Python_Quiz/blob/main/185bd697-126f-40eb-8a02-afe319705c46.jpeg?raw=true
+        
+          https://github.com/vis-hal95/Python_Quiz/blob/main/185bd697-126f-40eb-8a02-afe319705c46.jpeg?raw=true![Uploading image.png…]()
+
 2. **Main Window Setup**:
     - The window is set with a soft light blue background (`#f0f8ff`), making it visually appealing.
     - The window's size is set to `450x350`, which is sufficient to display the question and answer options without feeling crowded.
