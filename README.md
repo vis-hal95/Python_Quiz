@@ -46,5 +46,4 @@ python project Quiz of python Questions  ==>
 - **After Submitting Answer**: A popup shows whether the answer was **correct** or **incorrect**.
 - **Final Score**: After answering all the questions, a message shows the total score.
 
-- ![Uploading Screenshot 2024-11-23 at 2.33.19 AM.png…]()
 
